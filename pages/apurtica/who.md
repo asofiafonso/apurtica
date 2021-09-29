@@ -9,4 +9,4 @@ Apesar destes números em Portugal nunca existiu uma Associação de Doentes ou 
 
 Foi por esta razão que um grupo de doentes se juntou, e criou um crowdfunding [https://ppl.pt/apdu](https://ppl.pt/apdu) que permitiu angariar o financiamento para a criação e constituição da APUrtica – Associação Portuguesa de Doentes de Urticária, uma associação sem fins lucrativos cujo principal objetivo é apoiar e defender os direitos, necessidades e preocupações dos doentes.
 
-A Associação foi criada a 11 de Janeiro de 2021 e teve a primeira Assembleia Geral com sócios fundadores a 2 de Maio de 2021. Atualmente aceitam-se sócios efectivos através do preenchimento de [formulário](/support/associates/).
+A Associação foi criada a 11 de Janeiro de 2021 e teve a primeira Assembleia Geral com sócios fundadores a 2 de Maio de 2021. Atualmente aceitam-se sócios efectivos através do preenchimento de [formulário](apurtica/support/associates/).
