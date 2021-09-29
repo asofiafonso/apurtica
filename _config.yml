@@ -4,12 +4,12 @@ show_downloads: false
 google_analytics:
 remote_theme: chrisrhymes/bulma-clean-theme
 permalink: pretty
-favicon: /assets/images/uce_square.png
+favicon: assets/images/uce_square.png
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: page
-      hero_image: /assets/images/uce_banner.png
+      hero_image: assets/images/uce_banner.png
       
