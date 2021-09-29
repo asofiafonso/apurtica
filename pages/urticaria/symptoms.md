@@ -1,0 +1,4 @@
+---
+permalink: /urticaria/symptoms/
+---
+# Sintomas

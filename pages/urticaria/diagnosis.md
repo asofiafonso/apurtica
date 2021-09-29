@@ -1,0 +1,4 @@
+---
+permalink: /urticaria/diagnosis/
+---
+# Diagnóstico

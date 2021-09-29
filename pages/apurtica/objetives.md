@@ -1,0 +1,4 @@
+---
+permalink: /apurtica/objectives/
+---
+# Objectivos
