@@ -8,7 +8,9 @@ permalink: /apurtica/mission/
 
 <p><div style="text-align: justify">A APUrtica desenvolve continuamente esforços para:</div><p>
 
-<ol type="a">
+.center {text-align: center; list-style-position: inside;}
+
+<ol type="a"; class="center">
 <li>Representar junto das autoridades e de particulares os interesses dos doentes com Urticária;</li>
 <li>Promover a melhoria da qualidade de vida dos portadores de urticária, no seu contexto pessoal, profissional e social;</li>
 <li>Defender os direitos do portador da doença, nas suas atividades profissionais e sociais;</li>
