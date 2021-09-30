@@ -1,9 +1,8 @@
 ---
 permalink: /apurtica/who/
 ---
-<h3>
 # Quem somos?
-</h3>
+<br style="line-height:0px;" />
 
 <p><div style="text-align: justify">Não existem dados específicos de Portugal, mas com base em estudos internacionais estima-se que a urticária crónica afeta até 1% da população a qualquer dado momento, sendo que cerca de 2/3 dos casos são de urticária espontânea. Cerca de 20 % da população sofre pelo menos um episódio de urticária e 0,5 a 1 % sofre de urticária crónica, com uma duração média entre 1 e 5 anos e uma maior incidência em mulheres entre os 20 e os 40 anos.</div><p>
 
