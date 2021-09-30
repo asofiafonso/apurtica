@@ -11,5 +11,5 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: page
-      hero_image: assets/images/uce_banner.png
+      hero_image: https://asofiafonso.github.io/apurtica/assets/images/uce_banner.png
       
