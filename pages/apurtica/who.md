@@ -14,6 +14,6 @@ permalink: /apurtica/who/
 <p style="text-align: justify">A Associação foi criada a 11 de Janeiro de 2021 e teve a primeira Assembleia Geral com sócios fundadores a 2 de Maio de 2021. Atualmente aceitam-se sócios efetivos através do preenchimento de <a href="https://asofiafonso.github.io/apurtica/support/associates/">formulário</a>.</p>
 
 <p float="left">
-  <img src="assets/images/foto1.jpeg" width="49%" />
-  <img src="assets/images/foto2.jpeg" width="49%" /> 
+  <img src="https://asofiafonso.github.io/apurtica/assets/images/foto1.jpeg" width="49%" />
+  <img src="https://asofiafonso.github.io/apurtica/assets/images/foto2.jpeg" width="49%" /> 
 </p>
