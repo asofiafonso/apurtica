@@ -2,22 +2,26 @@
 permalink: /apurtica/comissao/
 ---
 # Comissão Instaladora
+<div style="height:0px;"><br></div>
 
-Orgãos Sociais eleitos na Assembleia Geral Ordinária de 2 de Maio de 2021
+<p style="text-align: justify">Orgãos Sociais eleitos na Assembleia Geral Ordinária de 2 de Maio de 2021:</p>
 
-DIRECÇÃO	
-Presidente 	Mónica Albuquerque
-Vice-presidente 	Ana Afonso
-Tesoureiro 	Rute Isabel Castanheira da Silva Dolores
-Secretário 		Vera Marques
-Vogal 		Manuela Marques
+<p style="text-align: justify"><b>Direcção</b></p>
+<div style="height:0px;"><br></div>	
+<b><i>Presidente:</i></b> &emsp; Mónica Albuquerque
+<b><i>Vice-presidente:</i></b> &emsp; Ana Afonso
+<b><i>Tesoureiro:</i></b> &emsp; Rute Dolores
+<b><i>Secretário:</i></b> &emsp; Vera Marques
+<b><i>Vogal:</i></b> &emsp; Manuela Marques
 		
-MESA DA ASSEMBLEIA GERAL	
-Presidente 	Carlos Evaristo
-Vice-presidente	João Tiago Teixeira
-Secretário		Tânia Piedade
+<p style="text-align: justify"><b>Mesa da Assembleia Geral</b></p>
+<div style="height:0px;"><br></div>	
+<b><i>Presidente:</i></b> &emsp; Carlos Evaristo
+<b><i>Vice-presidente:</i></b> &emsp; João Teixeira
+<b><i>Secretário:</i></b> &emsp; Tânia Piedade
 		
-CONSELHO FISCAL	
-Presidente 	Elsa Feliciano Silva
-Vogal		Joana Lirio
-Vogal		Cátia Isabel Luís Micano da Palma
+<p style="text-align: justify"><b>Conselho Fiscal</b></p>
+<div style="height:0px;"><br></div>	
+<b><i>Presidente:</i></b> &emsp; Elsa Silva
+<b><i>Vogal:</i></b> &emsp; Joana Lirio
+<b><i>Vogal:</i></b> &emsp; Cátia Palma
