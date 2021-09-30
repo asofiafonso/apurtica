@@ -11,9 +11,9 @@ layout: page
      </div>
      <div class="events"> 
      <h> Eventos </h>
-     <ul>
-        <li><a href="tsf.pt"> Conversa 9h30 @ TSF</li>
-    </ul>
+        <ul>
+            <li><a href="www.tsf.pt">Conversa 9h30 @ TSF</a></li>
+        </ul>
      </div>
 </div>
 
