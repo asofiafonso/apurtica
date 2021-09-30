@@ -27,8 +27,8 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
     <br>
     <label class="required">
     Assunto: 
-    <input type=”text” size=”19″ name=MessageTitle placeholder="O assunto"> -->
-    </label>
+    <input type=”text” size=”19″ name=MessageTitle placeholder="O assunto">
+    </label> -->
 <!-- </div>
 <div class="form-column"> -->
     <!-- Message:
