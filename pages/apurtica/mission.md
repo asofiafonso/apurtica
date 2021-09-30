@@ -1,7 +1,7 @@
 ---
 permalink: /apurtica/mission/
 ---
-# A nossa missão
+# Missão
 <div style="height:0px;"><br></div>
 
 <p style="text-align: justify">Desde a sua criação que a APUrtica - Associação Portuguesa de Urticária Crónica prossegue a missão de ajudar a aproximar, informar e capacitar a comunidade de pessoas com Urticária Crónica.</p> 
