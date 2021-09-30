@@ -12,7 +12,7 @@ layout: page
      <div class="events"> 
      <h> Eventos </h>
      <ul>
-        <li><a href="tsf.pt"> @ TSF</li>
+        <li><a href="tsf.pt"> Conversa 9h30 @ TSF</li>
     </ul>
      </div>
 </div>
