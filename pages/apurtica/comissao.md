@@ -8,20 +8,20 @@ permalink: /apurtica/comissao/
 
 <p style="text-align: justify"><b>Direcção</b></p>
 <div style="height:0px;"><br></div>	
-<b><i>Presidente:</i></b> &emsp; Mónica Albuquerque
-<b><i>Vice-presidente:</i></b> &emsp; Ana Afonso
-<b><i>Tesoureiro:</i></b> &emsp; Rute Dolores
-<b><i>Secretário:</i></b> &emsp; Vera Marques
-<b><i>Vogal:</i></b> &emsp; Manuela Marques
+<p style="text-align: justify"><b><i>Presidente:</i></b> &emsp; Mónica Albuquerque</p>
+<p style="text-align: justify"><b><i>Vice-presidente:</i></b> &emsp; Ana Afonso</p>
+<p style="text-align: justify"><b><i>Tesoureiro:</i></b> &emsp; Rute Dolores</p>
+<p style="text-align: justify"><b><i>Secretário:</i></b> &emsp; Vera Marques</p>
+<p style="text-align: justify"><b><i>Vogal:</i></b> &emsp; Manuela Marques</p>
 		
 <p style="text-align: justify"><b>Mesa da Assembleia Geral</b></p>
 <div style="height:0px;"><br></div>	
-<b><i>Presidente:</i></b> &emsp; Carlos Evaristo
-<b><i>Vice-presidente:</i></b> &emsp; João Teixeira
-<b><i>Secretário:</i></b> &emsp; Tânia Piedade
+<p style="text-align: justify"><b><i>Presidente:</i></b> &emsp; Carlos Evaristo</p>
+<p style="text-align: justify"><b><i>Vice-presidente:</i></b> &emsp; João Teixeira</p>
+<p style="text-align: justify"><b><i>Secretário:</i></b> &emsp; Tânia Piedade</p>
 		
 <p style="text-align: justify"><b>Conselho Fiscal</b></p>
 <div style="height:0px;"><br></div>	
-<b><i>Presidente:</i></b> &emsp; Elsa Silva
-<b><i>Vogal:</i></b> &emsp; Joana Lirio
-<b><i>Vogal:</i></b> &emsp; Cátia Palma
+<p style="text-align: justify"><b><i>Presidente:</i></b> &emsp; Elsa Silva</p>
+<p style="text-align: justify"><b><i>Vogal:</i></b> &emsp; Joana Lirio</p>
+<p style="text-align: justify"><b><i>Vogal:</i></b> &emsp; Cátia Palma</p>
