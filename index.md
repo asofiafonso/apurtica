@@ -10,7 +10,7 @@ layout: page
       <img class="main" src="https://asofiafonso.github.io/apurtica/assets/images/welcome.jpeg">
      </div>
      <div class="events"> 
-     <h> Eventos </h>
+     <p style="font-size:large font-weight: bold"> Eventos </p>
         <ul>
             <li><a href="www.tsf.pt">Conversa 9h30 @ TSF</a></li>
         </ul>

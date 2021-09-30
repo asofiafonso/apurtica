@@ -76,12 +76,19 @@ label.required::before {
     border-radius: 0.5em;
     background-color: rgb(250, 231, 207);
     border: grey;
-    margin-left: 80%;
-    padding-inline-start: 1em
+    margin-left: 75%;
+    padding-inline-start: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.events > p {
+    font-size: large;
+    font-weight: bolder;
 }
 
 .main{
-    width: 80%;
+    width: 75%;
     float: left;
 }
 
@@ -91,3 +98,4 @@ label.required::before {
     margin-right: 10%;
     width: 80%;
 }
+
