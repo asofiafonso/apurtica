@@ -8,7 +8,7 @@ Não existem dados específicos de Portugal, mas com base em estudos internacion
 
 Apesar destes números em Portugal nunca existiu uma Associação de Doentes ou grupo associativo dedicado a ajudar a responder aos desafios que a Urticária Crónica representa para as pessoas que vivem diretamente com esta doença como para aqueles que indiretamente são afetados pela mesma, familiares, amigos, empregadores, etc.
 
-Foi por esta razão que um grupo de doentes se juntou, e criou um crowdfunding (<a href="https://ppl.pt/apdu">]https://ppl.pt/apdu</a>) que permitiu angariar o financiamento para a criação e constituição da APUrtica – Associação Portuguesa de Doentes de Urticária, uma associação sem fins lucrativos cujo principal objetivo é apoiar e defender os direitos, necessidades e preocupações dos doentes.
+Foi por esta razão que um grupo de doentes se juntou, e criou um crowdfunding (<a href="https://ppl.pt/apdu">https://ppl.pt/apdu</a>) que permitiu angariar o financiamento para a criação e constituição da APUrtica – Associação Portuguesa de Doentes de Urticária, uma associação sem fins lucrativos cujo principal objetivo é apoiar e defender os direitos, necessidades e preocupações dos doentes.
 
-A Associação foi criada a 11 de Janeiro de 2021 e teve a primeira Assembleia Geral com sócios fundadores a 2 de Maio de 2021. Atualmente aceitam-se sócios efectivos através do preenchimento de [formulário](apurtica/support/associates/).
+A Associação foi criada a 11 de Janeiro de 2021 e teve a primeira Assembleia Geral com sócios fundadores a 2 de Maio de 2021. Atualmente aceitam-se sócios efectivos através do preenchimento de <a href="formulário">apurtica/support/associates/</a>.
 </div>
