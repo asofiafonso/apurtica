@@ -6,10 +6,11 @@ layout: page
 
 
  <div style="width: 100%; overflow: hidden;">
-     <div style="width: 80%; float: left;"> 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/zem_zMu53UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <div class="main"> 
+      <img src="https://asofiafonso.github.io/apurtica/assets/images/welcome.jpeg">
      </div>
-     <div class="events" style="margin-left: 80%"> 
+     <div class="events"> 
      Eventos 
      </div>
 </div>
+
