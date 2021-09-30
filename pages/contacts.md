@@ -12,7 +12,7 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
     enctype=”multipart/form-data” 
     name=”EmailForm”
 >
-<div class="form-column">
+<!-- <div class="form-column"> -->
     <label class="required">
     Nome: <input type=”text” size=”19″ name=”ContactName” placeholder="O seu Nome">
     </label>
@@ -26,13 +26,13 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
     <label class="required">
     Assunto: <input type=”text” size=”19″ name=MessageTitle placeholder="O assunto">
     </label>
-</div>
-<div class="form-column">
+<!-- </div>
+<div class="form-column"> -->
     Message:
     <br> 
     <textarea name=Message rows=”30″ cols=”20″ placeholder="A sua mensagem">
     </textarea>
-</div>
+<!-- </div> -->
 <div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div>
 <button type="submit">Enviar</button>
 </form>
