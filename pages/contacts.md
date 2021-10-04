@@ -29,9 +29,9 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
     <input type="text" name="MessageTitle" placeholder="O assunto">
 </div>
 <div class="form-column">
-    Message:
+    Mensagem:
     <br> 
-    <textarea name="Message" rows="15" placeholder="A sua mensagem">
+    <textarea name="Message" rows="15" cols="30" wrap="hard" placeholder="A sua mensagem">
     </textarea>
 </div>
 <div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div>
