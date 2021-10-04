@@ -7,7 +7,7 @@ permalink: /contacts/
 Para qualquer pedido de informação pode enviar diretamente um e-mail para <a href="mailto:urticariacronicaportugal@gmail.com">urticariacronicaportugal@gmail.com</a>, ou utilize o formulário abaixo:
 
 
-<form method="post" action=”https://asofiafonso.github.io/apurtica/assets/formmail.php”  name="ContactForm">
+<form method="post" action=”https://formspree.io/f/xjvjlvdk”  name="ContactForm">
 <input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER" />
 <input type="hidden" name="recipients" value="urticariacronicaportugal@gmail.com" />
 <input type="hidden" name="required" value="ContactEmail:O seu e-mail,”ContactName”:O seu nome "/>
