@@ -2,7 +2,7 @@
 permalink: /contacts/
 ---
 
-<form action=”mailto:urticariacronicaportugal@gmail.com” method=”POST”>
+<form action="https://formspree.io/f/xjvjlvdk" method=”POST”>
 <label class="required">
     <input type="text" name="nome" size="75" placeholder="O seu nome" required>
 </label>
