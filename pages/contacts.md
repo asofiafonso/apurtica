@@ -11,13 +11,13 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
 <label class="required">
     <input type="text" name="nome" size="75" placeholder="O seu nome" required>
 </label>
-<div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div>
+<!-- <div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div> -->
 <button type="submit">Enviar</button> 
 </form>
 
 
 <!--js-->
-<script src='https://www.google.com/recaptcha/api.js'></script>
+<!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
 
 
 <!-- <div class="form-column">
