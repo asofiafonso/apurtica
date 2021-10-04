@@ -8,7 +8,19 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
 
 
 <form action=”mailto:urticariacronicaportugal@gmail.com” method=”POST” enctype=”multipart/form-data” name=”EmailForm”>
-<div class="form-column">
+<label class="required">
+    <input type="text" name="nome" size="75" placeholder="O seu nome" required>
+</label>
+<div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div>
+<button type="submit">Enviar</button> 
+</form>
+
+
+<!--js-->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+<!-- <div class="form-column">
     <label class="required">
     Nome: 
     <input type=”text” size=”19″ name=”ContactName” placeholder="O seu Nome">
@@ -32,10 +44,4 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
     <textarea name=Message rows=”30″ cols=”20″ placeholder="A sua mensagem">
     </textarea>
 </div>
-<div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div>
-<button type="submit">Enviar</button>
-</form>
-
-
-<!--js-->
-<script src='https://www.google.com/recaptcha/api.js'></script>
+-->
