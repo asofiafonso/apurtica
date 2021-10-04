@@ -7,8 +7,8 @@ permalink: /contacts/
 Para qualquer pedido de informação pode enviar diretamente um e-mail para <a href="mailto:urticariacronicaportugal@gmail.com">urticariacronicaportugal@gmail.com</a>, ou utilize o formulário abaixo:
 
 
-<!-- <form
-  action="https://asofiafonso.github.io/apurtica/assets/formmail.php"
+<form
+  action="https://apurtica.pt/formmail.php"
   method="POST"
 >
 <input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER" />
@@ -31,13 +31,14 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
 <div class="form-column">
     Mensagem:
     <br> 
-    <textarea name="Message" rows="15" cols="30" wrap="soft" placeholder="A sua mensagem">
+    <textarea name="Message" rows="15" cols="30" placeholder="A sua mensagem">
     </textarea>
 </div>
 <div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div>
 <button type="submit">Enviar</button>
-</form> -->
+</form>
 
+<!-- 
 <form
   action="mailto:urticariacronicaportugal@gmail.com"
   method="POST"
@@ -63,7 +64,7 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
 </div>
 <div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div>
 <button type="submit">Enviar</button>
-</form>
+</form> -->
 
 
 <!--js-->
