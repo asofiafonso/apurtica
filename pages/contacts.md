@@ -7,7 +7,7 @@ permalink: /contacts/
 Para qualquer pedido de informação pode enviar diretamente um e-mail para <a href="mailto:urticariacronicaportugal@gmail.com">urticariacronicaportugal@gmail.com</a>, ou utilize o formulário abaixo:
 
 
-<form action=”mailto:urticariacronicaportugal@gmail.com” method=”POST” enctype=”multipart/form-data” name=”EmailForm”>
+<form action=”mailto:urticariacronicaportugal@gmail.com” method=”POST”>
 <label class="required">
     <input type="text" name="nome" size="75" placeholder="O seu nome" required>
 </label>
