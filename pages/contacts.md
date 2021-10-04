@@ -10,7 +10,7 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
 
 <form
   action=”mailto:urticariacronicaportugal@gmail.com”
-  method="POST"
+  method="GET"
 >
 <label class="required">
     Nome
