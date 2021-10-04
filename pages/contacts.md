@@ -44,22 +44,32 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
   enctype="text/plain"
 >
 <div class="form-column">
-    Nome: 
-    <input type="text" name="ContactName" placeholder="O seu Nome">
+    <label class="required">
+        Nome: 
+    <input type="text" name="ContactName" placeholder="O seu Nome" required>
+</label>
+
     <br>
     <br>
-    E-mail: 
-    <input type="text" name="ContactEmail" placeholder="O seu e-mail">
+    
+    <label class="required">
+        E-mail: 
+    <input type="text" name="ContactEmail" placeholder="O seu e-mail" required>
+</label>
+
     <br>
     <br>
     Assunto: 
     <input type="text" name="MessageTitle" placeholder="O assunto">
 </div>
 <div class="form-column">
-    Mensagem:
+    <label class="required">
+        Mensagem:
     <br> 
-    <textarea name="Message" rows="15" cols="30" placeholder="A sua mensagem">
+    <textarea name="Message" rows="15" cols="30" placeholder="A sua mensagem" required>
     </textarea>
+</label>
+
 </div>
 <div class="g-recaptcha" data-sitekey="6LfrFZ8cAAAAAP9SaqZdAfFMNQVw_U02hRabQYrf"></div>
 <button type="submit">Enviar</button>
