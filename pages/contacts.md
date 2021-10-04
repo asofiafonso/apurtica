@@ -11,6 +11,11 @@ Para qualquer pedido de informação pode enviar diretamente um e-mail para <a h
   action="https://asofiafonso.github.io/apurtica/assets/formmail.php"
   method="POST"
 >
+<input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER" />
+<input type="hidden" name="recipients" value="urticariacronicaportugal@gmail.com" />
+<input type="hidden" name="required" value="ContactEmail:O seu e-mail,ContactName:O seu nome "/>
+<input type="hidden" name="subject" value="Contacto Formulario" />
+<input type="hidden" name="derive_fields" value="email=ContactEmail,realname=ContactName" />
 <label class="required">
     Nome
 <br>
