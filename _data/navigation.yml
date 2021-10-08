@@ -17,52 +17,52 @@
     #   link: /apurtica/partners/
     # - name: Documentos Oficiais
     #   link: /apurtica/documents/
-- name: Urticária
-  link: #
-  dropdown: 
-    - name: A doença crónica/aguda 
-      link: /urticaria/disease/
-    - name: Tipos
-      link: /urticaria/types/
-    - name: Causas
-      link: /urticaria/causes/
-    - name: Sintomas
-      link: /urticaria/symptoms/
-    - name: Diagnóstico
-      link: /urticaria/diagnosis/
-    - name: Terapêutica
-      link: /urticaria/therapeutics/
-    - name: Qualidade de vida 
-      link: /urticaria/life/
-    - name: Impacto na sociedade
-      link: /urticaria/society/
-    # - name: Estudos
-    #   link:
-- name: Apoio Médico
-  link: #
-  dropdown: 
-    - name: Formulário de apoio médico
-      link: /medical/support/
-    - name: Centros UCare
-      link: /medical/ucare/
+# - name: Urticária
+#   link: #
+#   dropdown: 
+#     - name: A doença crónica/aguda 
+#       link: /urticaria/disease/
+#     - name: Tipos
+#       link: /urticaria/types/
+#     - name: Causas
+#       link: /urticaria/causes/
+#     - name: Sintomas
+#       link: /urticaria/symptoms/
+#     - name: Diagnóstico
+#       link: /urticaria/diagnosis/
+#     - name: Terapêutica
+#       link: /urticaria/therapeutics/
+#     - name: Qualidade de vida 
+#       link: /urticaria/life/
+#     - name: Impacto na sociedade
+#       link: /urticaria/society/
+#     # - name: Estudos
+#     #   link:
+# - name: Apoio Médico
+#   link: #
+#   dropdown: 
+#     - name: Formulário de apoio médico
+#       link: /medical/support/
+#     - name: Centros UCare
+#       link: /medical/ucare/
 # - name: Testemunhos
 #   link: #
 - name: Como apoiar
-  link: #
-  dropdown:
-    - name: Associados
-      link: /support/associates/
-    - name: Donativos
-      link: /support/donations/
-- name: Notícias
-  link: #
-  dropdown: 
-    - name: Iniciativas
-      link: /news/iniciatives/
-    - name: Comunicação Social
-      link: /news/social/
-- name: FAQs
-  link: /faqs/
+  link: /support/associates/
+  # dropdown:
+  #   - name: Associados
+  #     link: /support/associates/
+  #   - name: Donativos
+  #     link: /support/donations/
+# - name: Notícias
+#   link: #
+#   dropdown: 
+#     - name: Iniciativas
+#       link: /news/iniciatives/
+#     - name: Comunicação Social
+#       link: /news/social/
+# - name: FAQs
+#   link: /faqs/
 # - name: Legislação
 #    link: /legislation/
 - name: Contatos

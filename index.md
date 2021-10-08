@@ -7,7 +7,7 @@ layout: page
 
  <div style="width: 100%; overflow: hidden;">
      <div class="main"> 
-      <img class="main" src="https://asofiafonso.github.io/apurtica/assets/images/welcome.jpeg">
+      <img class="main" src="https://asofiafonso.github.io/apurtica/assets/images/welcome_events.jpeg">
      </div>
      <div class="events"> 
      <p style="font-size:large font-weight: bold"> Últimas </p>
